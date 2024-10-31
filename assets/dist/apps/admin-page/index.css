@@ -1,0 +1,4 @@
+#postcodex-lookup-admin-page .postcodex-lookup-admin-page-container{display:grid;grid-template-columns:1fr;grid-template-rows:auto;grid-gap:1em}@media (min-width: 768px){#postcodex-lookup-admin-page .postcodex-lookup-admin-page-container{grid-template-columns:1fr 25%}}#postcodex-lookup-admin-page .postcodex-lookup-admin-page-container .sidebar{padding:0.25em}#postcodex-lookup-admin-page .postcodex-lookup-admin-page-container .sidebar .section{border:1px solid #CCC;padding:0.25em}#postcodex-lookup-admin-page .postcodex-lookup-admin-page-container .sidebar .section .heading{background:#CCC;margin:0;padding:0.2em}#postcodex-lookup-admin-page .postcodex-lookup-admin-page-container .sidebar .section .faq-q{font-weight:bold}#postcodex-lookup-admin-page .postcodex-lookup-admin-page-container .sidebar .section .faq-a{font-style:italic}
+
+
+/*# sourceMappingURL=index.css.map*/
